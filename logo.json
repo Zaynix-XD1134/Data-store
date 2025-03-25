@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Logo 1",
+        "price": "₹30",
+        "image": "https://raw.githubusercontent.com/Zaynix-XD1134/Data-store/main/logo.json",
+        "link": "https://wa.me/919341378016/?text=HELLO ROMEK-XD CREATE NEW LOGO FOR MY NAME Logo 1",
+        "category": "Minimal",
+        "creator": "ROMEK-XD"
+    },
+    {
+        "id": 2,
+        "name": "Logo 2",
+        "price": "₹30",
+        "image": "https://raw.githubusercontent.com/Zaynix-XD1134/Data-store/main/logo.json",
+        "link": "https://wa.me/919341378016/?text=HELLO ROMEK-XD CREATE NEW LOGO FOR MY NAME Logo 2",
+        "category": "Bold",
+        "creator": "ROMEK-XD"
+    }
+]
